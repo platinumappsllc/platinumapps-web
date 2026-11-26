@@ -10,9 +10,9 @@ stylesheet: no build step, no scripts, nothing to install. Open `index.html` to 
   mflplatinum.com's, which covers the same AppLovin account.
 - `styles.css`, `assets/`.
 
-Not yet published. Before it is:
+Published by GitHub Pages from `main`: a merge there is live within a minute or two. The custom
+domain is set in the repository's Pages settings.
 
-- `cribbage/privacy.html` is a draft. It describes the app with ads and with the consent prompt
-  for Europe turned on, so it must go live together with a build that has both. Check each ad
-  partner's privacy link in a browser.
+- `cribbage/privacy.html` is the app's privacy policy, effective 2026-11-25. It has to stay true
+  of the app: when the app changes what it collects, change this page first and its date with it.
 - "Cribbage Platinum" is a working name and the App Store link is missing.
